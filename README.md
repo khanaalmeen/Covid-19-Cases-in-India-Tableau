@@ -6,9 +6,9 @@
 ### This dashboard gives us important insights into which states were most affected by covid, gender analysis, the doses administered etc..
 
 ## DATASET- 
-### Link 1: https://www.kaggle.com/datasets/sudal...
-### Link 2: https://www.kaggle.com/code/anshuls23...
-### Link 3: https://geographicalanalysis.com/down...
+### Link 1: https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india?datasetId=557629&sortBy=voteCount
+### Link 2: https://www.kaggle.com/code/anshuls235/covid19-explained-through-visualizations/data
+### Link 3: https://geographicalanalysis.com/download-free-india-shapefile-including-kashmir-and-ladakh/
 
 
 ## YOUTUBE LINK : https://youtu.be/-wBxleaxZHs
